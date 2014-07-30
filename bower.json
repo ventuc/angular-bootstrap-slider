@@ -1,16 +1,16 @@
 {
-  "name": "angular-bootstrap-select",
-  "description": "AngularJS directive of seiyria's Bootstrap Slider",
-  "version": "0.1.0",
-  "homepage": "https://github.com/ventuc/angular-bootstrap-slider",
-  "license": "MIT",
-  "private": false,
-  "dependencies": {
-    "angular": "1.2.x",
-    "angular-route": "1.2.x",
-    "angular-loader": "1.2.x",
-    "angular-mocks": "~1.2.x",
-    "bootstrap": "~3.1.x",
-    "seiyria-bootstrap-slider": "~3.1.x"
-  }
+	"name": "angular-bootstrap-select",
+	"description": "AngularJS directive of seiyria's Bootstrap Slider",
+	"version": "0.1.0",
+	"homepage": "https://github.com/ventuc/angular-bootstrap-slider",
+	"license": "MIT",
+	"private": false,
+	"dependencies": {
+		"angular": "1.2.x",
+		"angular-route": "1.2.x",
+		"angular-loader": "1.2.x",
+		"angular-mocks": "~1.2.x",
+		"bootstrap": "~3.1.x",
+		"seiyria-bootstrap-slider": "~3.1.x"
+	}
 }
