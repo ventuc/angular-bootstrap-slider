@@ -11,6 +11,6 @@
 		"angular-loader": "1.2.x",
 		"angular-mocks": "~1.2.x",
 		"bootstrap": "~3.1.x",
-		"seiyria-bootstrap-slider": "~3.1.x"
+		"seiyria-bootstrap-slider": "~4.0.x"
 	}
 }
